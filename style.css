@@ -1,0 +1,94 @@
+h1{
+    color:rgb(0, 124, 128);
+    font-size:250%;
+}
+h2{
+    color:rgb(127, 187, 255);
+}
+
+div{
+    max-width:640px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+main{
+    margin-left:48px;
+}
+
+iframe{
+    margin-left:21px;
+}
+
+h1,h2,li,footer{
+    text-align:center;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+li{
+    list-style:none;
+    width:33%;
+    float:left;
+}
+
+ul:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+ul{
+    padding:0;
+}
+
+table{
+    width:100%;
+}
+
+th{
+    text-align:left;
+}
+
+.price{
+    text-align:right;
+}
+
+li a{
+    color:#000;
+}
+
+li a:hover{
+    text-decoration:none;
+}
+
+header{
+    border-top:solid 10px #c2e08f;
+}
+
+h2{
+    background-image:url(C:\Users\さかせ　ふとし\Pictures\Screenshots\b018.jpg);
+    background-repeat:no-repeat;
+    background-position:center bottom;
+    background-size:220px 28px;
+}
+
+section{
+    box-shadow:0 0 10px 0 #ccc;
+    margin-left:-90px;
+    padding-top:10px;
+    padding-right:20px;
+    padding-bottom:10px;
+    padding-left:20px;
+}
+
+th img{
+    border-radius:6px;
+}
+
+img{
+    max-width:100%;
+}
+
+iframe{
+    max-width:100%;
+}
